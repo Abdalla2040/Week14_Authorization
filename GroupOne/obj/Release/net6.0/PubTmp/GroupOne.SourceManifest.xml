@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Release\net6.0\PubTmp\EFSQLScripts\GroupOne.Data.Group1ComputerStore4Context.sql" />
+</sitemanifest>

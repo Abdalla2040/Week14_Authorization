@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXUIlrRVFqEi+8ADhUSIAsQAAAAACAAAAAAAQZgAAAAEAACAAAABev6gqRj4AvKzRNsxNB1MIZ86/Itm8o+wjJP1KnjXefQAAAAAOgAAAAAIAACAAAAASX2izQO/maODWHVVMtPaEP9x6+FyW1gFjar7lF0BMC4AAAAB/bnZlr49XQ4uHazhSY+naBZo7X0MATXlQZk5Jfhim2kINePAV4uQOG48Sq703pE9uXsQ08OHMVC4rq/wGbnOfHVl3tX6cqAGQUGjFaGH+GjFUKITxkenv0EQO2cbijnveYWtWcNepL0wracDfINPITS1EE+xSqh75g7yeNa4ChEAAAABvq9v7fgqtKaA4ebY1zZLTzrmxswJqtNRwYn335GjZGhkxAJiGSYzyLoOecwjqOQM0kBLnA1ycJUaHTLiJWEEb</EncryptedPassword>
+    <History>True|2022-04-16T04:33:25.1886152Z;True|2022-04-15T23:28:56.0593271-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="GroupOne.Data.Group1ComputerStore4Context">
+      <Value>Data Source=tcp:abdalla.database.windows.net,1433%3bInitial Catalog=Group 1 Computer Store4%3bUser Id=abdalla%40abdalla%3bPassword=Mohamed1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

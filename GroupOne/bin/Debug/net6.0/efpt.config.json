@@ -42,7 +42,7 @@
          "ObjectType": 0
       }
    ],
-   "UiHint": "ABDALLA.Group 1 Computer Store4",
+   "UiHint": "abdalla.Group 1 Computer Store4",
    "UseBoolPropertiesWithoutDefaultSql": false,
    "UseDatabaseNames": false,
    "UseDbContextSplitting": false,

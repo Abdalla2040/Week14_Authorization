@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/abdalla/databases/Group 1 Computer Store4",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:GroupOneStore"
+    },
+    "apis1": {
+      "apiEndpoint": "https://grouponeapi.azure-api.net/",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/GroupOneapi/apis/GroupOne",
+      "type": "apis.azure"
+    }
+  }
+}
