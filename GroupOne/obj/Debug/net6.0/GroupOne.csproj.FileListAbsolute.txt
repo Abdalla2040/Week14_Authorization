@@ -262,3 +262,4 @@ C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\refint\Gr
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\GroupOne.pdb
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\GroupOne.genruntimeconfig.cache
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\ref\GroupOne.dll
+C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
