@@ -9,6 +9,7 @@ C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\GroupOne.
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Humanizer.dll
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\MessagePack.dll
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.Build.Locator.dll
@@ -262,4 +263,3 @@ C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\refint\Gr
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\GroupOne.pdb
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\GroupOne.genruntimeconfig.cache
 C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\obj\Debug\net6.0\ref\GroupOne.dll
-C:\Users\aple3\OneDrive\Desktop\C#2\GroupOne\GroupOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
